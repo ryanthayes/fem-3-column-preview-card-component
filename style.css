@@ -65,7 +65,7 @@ body {
     font-size: var(--fs-400);
     font-weight: var(--fw-normal);
     color: var(--clr-neutral-100-alpha75);
-    margin: 5rem 0;
+    background-color: var(--clr-neutral-100);
 }
 
 .cards {
@@ -73,6 +73,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 5em 1em;
 }
 
 .button {
