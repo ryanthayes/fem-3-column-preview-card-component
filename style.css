@@ -76,7 +76,6 @@ body {
 .cards {
     display: flex;
     flex-direction: column;   
-    max-width: 20rem;
     margin-top: 4rem;
 }
 
@@ -109,6 +108,7 @@ body {
     flex-direction: column;
     gap: 1em;
     padding: 3rem;
+    max-width: 20rem;
 }
 
 .card:nth-child(1) {
